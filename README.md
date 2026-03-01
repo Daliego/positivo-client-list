@@ -130,4 +130,7 @@ npm run test:cov    # Cobertura de testes
 
 ### Notas
 
-- eu sei muito bem como o controller ficou ruim de ler, mas eu acabei desistindo de implementar uma notation para poder remove essa documentação de diretamente do controller
+- Eu sei muito bem como o controller ficou ruim de ler, mas eu acabei desistindo de implementar uma notation para poder remove essa documentação de diretamente do controller. Eu teria finalizado isso em uma implentação posterior.
+
+- Espero que o sistema tenha ficado do agrado do avaliador, obrigado.
+
