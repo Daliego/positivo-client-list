@@ -50,7 +50,7 @@ CRUD completo de clientes com as seguintes operações:
 
 ### View de Listagem (`src/views/`)
 
-Página HTML com tema escuro acessível em `GET /view/clients`. Busca dados da API REST automaticamente a cada 60 segundos.
+Página HTML com tema escuro acessível em `GET /view/clients`. Busca dados da API REST automaticamente a cada 60 segundos. Além de também oferecer a opção de criar clientes, não implementei o resto do CRUD, mas acho que o projeto está bem feito.
 
 ### Shared (`src/shared/`)
 
