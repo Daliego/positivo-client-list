@@ -1,8 +1,8 @@
 {
-  "name": "nestjs-mongo-docker",
+  "name": "nestjs-mongo-docker-positivo-test",
   "version": "0.1.0",
-  "description": "Nest.js + Mongo + Docker Starter",
-  "author": "Ikrom Alizoda <ikrom.develop@gmail.com>",
+  "description": "Nest.js + Mongo + Docker + Positivo Test",
+  "author": "Diego <diego.araujo@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
